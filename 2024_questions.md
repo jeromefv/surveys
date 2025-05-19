@@ -11,6 +11,16 @@ Linear scale
 - 1 - Never (do not or have not used Matplotlib)
 - 5 - Very often (~daily)
 
+## How long have you been using the Matplotlib library?
+
+Checkboxes
+
+- 0 years - I'm new to Matplotlib and haven't used it yet. 
+- Less than 1 year - I've been using Matplotlib recently, within the last few months.
+- Between 1 and 3 years - I've used Matplotlib for a while, at least a few years.
+- More than 3 years - I've been using Matplotlib for many years.
+- Other
+
 ## How helpful has Matplotlib documentation been for your use case and tasks?
 
 Linear scale
