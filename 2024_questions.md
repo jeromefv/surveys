@@ -4,12 +4,15 @@ Information about user's experience with Matplotlib Python library to benefit do
 
 Welcome, and thank you for taking the time to participate in our survey! The Matplotlib team is conducting this survey to improve our community documentation.  This survey should take approximately 15 minutes to complete. Your answers are completely confidential, and your participation is entirely voluntary. We value your feedback as it will enable us to make meaningful improvements.
 
-## How often do you use the Matplotlib library?
+## In the past 12 months, how often did you use the Matplotlib library?
 
 Linear scale
 
-- 1 - Never (do not or have not used Matplotlib)
-- 5 - Very often (~daily)
+- 1 - Did not use Matplotib in the past 12 months
+- 2 - A few times
+- 3 - Once a month
+- 4 - Once a week
+- 5 - More than once a week
 
 ## How long have you been using the Matplotlib library?
 
